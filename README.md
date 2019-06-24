@@ -6,13 +6,12 @@
 * Swift 4.2
 
 ### What is You-Decide?
-شرح للمشروع
-
+You can view photos anywhere by specifying where to show photos about
+ 
 ### How to use You-Decide?
-طريقة الاستخدام مع شرح الشاشات
+Start the application You must log in using your e-mail and password and then show a map where you can select a place and choose the pin on the place that has been identified and show us photos about the place
 
 ### How to make You-Decide?
-
 - Learn Swift Basics + Networking + Core Data
 - Use Flickr API for getting photos
 
